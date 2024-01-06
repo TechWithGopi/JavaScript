@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#colorPickerContainer {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+
+.button {
+    border-color: black;
+    border-radius: 20px;
+    height: 100px;
+    font-family: "Open Sans";
+    font-size: 14px;
+    width: 100px;
+    border-width: 3px;
+    margin-bottom: 10px;
+
+}
+
+.button1 {
+    text-align: center;
+    background-color: #e0e0e0;
+}
+
+
+.button2 {
+    text-align: center;
+    background-color: #6fcf97;
+}
+
+
+.button3 {
+    text-align: center;
+    background-color: #56ccf2;
+}
+
+
+.button4 {
+    text-align: center;
+    background-color: #bb6bd9;
+}
+
+.colorff {
+    color: #49a6e9;
+}
+
+.back {
+    background-color: #222222;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
